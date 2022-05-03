@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-05-03T19:36:39" hostname="MacBook-Pro-MacBook.local" time="0.224">
+  <properties/>
+  <testcase name="testListToJson()" classname="MainTest" time="0.058"/>
+  <testcase name="testParseCSV()" classname="MainTest" time="0.133"/>
+  <testcase name="testParseXML()" classname="MainTest" time="0.03"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
